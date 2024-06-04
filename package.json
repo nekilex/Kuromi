@@ -1,0 +1,16 @@
+{
+  "name": "kuromi-discord-app",
+  "version": "Dev 1.0.0",
+  "main": "main.js",
+  "keywords": [],
+  "author": "nekilex",
+  "license": "ISC",
+  "description": "neki's Discord Utility App",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.2",
+    "sqlite3": "^5.1.7"
+  }
+}

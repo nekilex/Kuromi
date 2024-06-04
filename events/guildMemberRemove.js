@@ -1,0 +1,1 @@
+// guildMemberRemove.js
