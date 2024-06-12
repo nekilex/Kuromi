@@ -2,9 +2,9 @@
     <img src="kuromi-circle.png" alt="Kuromi" width="120">
 </div>
 
-<h1 align="center">Kuromi Discord Utility App</h1>
+<h1 align="center">Kuromi</h1>
 
-Kuromi Discord Utility App is a tool designed for use in Discord servers. It offers various utility features to enhance the Discord experience.
+Kuromi is a Discord Utility App designed for use in Discord servers. It offers various utility features to enhance the Discord experience.
 
 ## License
 
