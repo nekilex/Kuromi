@@ -1,3 +1,6 @@
+This Repository has been archived due to rapid growing of plans an future ideas of the project.
+To learn more, check out my [Trello](https://trello.com/b/fYomugl8/nekis-discord-apps) project progress.
+
 <div align="center">
     <img src="kuromi-circle.png" alt="Kuromi" width="120">
 </div>
